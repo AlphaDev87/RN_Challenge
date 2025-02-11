@@ -62,7 +62,7 @@ Antes de empezar, asegúrate de tener instaladas las herramientas necesarias:
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/AlphaDev87/RN_Challenge.git
    ```
 
 2. Navega al directorio del proyecto:
