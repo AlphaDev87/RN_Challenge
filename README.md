@@ -67,7 +67,7 @@ Antes de empezar, asegúrate de tener instaladas las herramientas necesarias:
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd tu-repo
+   cd RN_Challenge
    ```
 
 3. Instala las dependencias:
